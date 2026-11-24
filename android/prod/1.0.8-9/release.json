@@ -1,0 +1,10 @@
+{
+  "platform": "android",
+  "channel": "prod",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "downloadUrl": "https://github.com/Everlume-labs/PhotoMemory-release/releases/download/android-prod-v1.0.8-9/photomemory.apk",
+  "sha256": "be338583dc824ca30271cec6918b2e897e31940fe4cdee1bf74c8cd3b5693573",
+  "releaseNotes": "新增检查更新入口，支持启动后检查新版本、查看更新说明并下载生产版安装包。\n关于页面显示当前安装版本。\n\nAdded update checks, release notes, and production APK downloads.\nThe About page now shows the installed app version.",
+  "sourceCommit": "cbf7d5ca6f3772ea2933c7e5cd4260c696321c7a"
+}
