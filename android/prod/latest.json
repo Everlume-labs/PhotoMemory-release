@@ -1,10 +1,10 @@
 {
   "platform": "android",
   "channel": "prod",
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "downloadUrl": "https://github.com/Everlume-labs/PhotoMemory-release/releases/download/android-prod-v1.0.9-10/photomemory.apk",
-  "sha256": "adbb4b2e1a0e2d22e8e891f21ab52a73c7cafd26578bc1e7e5c2ceae635b8c21",
-  "releaseNotes": "新增检查更新入口，支持启动后检查新版本、查看更新说明并下载生产版安装包。\n关于页面显示当前安装版本。\n\nAdded update checks, release notes, and production APK downloads.\nThe About page now shows the installed app version.",
-  "sourceCommit": "84deded1b90444e8e6198173bafeed5f43e6a417"
+  "versionCode": 11,
+  "versionName": "1.0.10",
+  "downloadUrl": "https://github.com/Everlume-labs/PhotoMemory-release/releases/download/android-prod-v1.0.10-11/photomemory.apk",
+  "sha256": "ce8fa1afba07456a2cdea12f06fe2921e7c704b55e044fd937b8554ea1b0a6de",
+  "releaseNotes": "优化检查更新提示，已是最新版或网络异常时给出清晰提示。\n发现新版本时展示版本号和更新内容，点击“立即更新”通过浏览器直接下载 APK。\n\nClearer update-check messages for the latest version and network errors.\nThe update dialog shows the version and release notes, with an Update now button for direct APK downloads.",
+  "sourceCommit": "bab487ddfc00025561a332d0bbb701186473e23a"
 }
